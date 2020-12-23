@@ -1,3 +1,4 @@
+<configs>
 <!-- PERCEPTION PERKS -->
 <remove xpath="/progression/perks/perk[@name='perkDeadEye']/level_requirements[@level='2']" />
 <remove xpath="/progression/perks/perk[@name='perkDeadEye']/level_requirements[@level='3']" />
@@ -116,8 +117,4 @@
 <remove xpath="/progression/perks/perk[@name='perkPainTolerance']/level_requirements[@level='5']" />
 
 <remove xpath="/progression/perks/perk[@name='perkHealingFactor']/level_requirements[@level>'1']" />
-
-
-
-
-
+</configs>
