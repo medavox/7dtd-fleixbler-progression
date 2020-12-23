@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Flexibler Progression" />
+		<Description value="Removes the attribute level requirement from all perks. Put skill points into any perk you want, without being limited by Attribute requirements. Setting Exp gain to 50% is recommended." />
+		<Author value="medavox" />
+		<Version value="A19" />
+		<!-- <Website value="" /> -->
+	</ModInfo>
+</xml>

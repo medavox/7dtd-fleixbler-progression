@@ -1,0 +1,123 @@
+<!-- PERCEPTION PERKS -->
+<remove xpath="/progression/perks/perk[@name='perkDeadEye']/level_requirements[@level='2']" />
+<remove xpath="/progression/perks/perk[@name='perkDeadEye']/level_requirements[@level='3']" />
+<remove xpath="/progression/perks/perk[@name='perkDeadEye']/level_requirements[@level='4']" />
+<remove xpath="/progression/perks/perk[@name='perkDeadEye']/level_requirements[@level='5']" />
+
+<remove xpath="/progression/perks/perk[@name='perkDemolitionsExpert']/level_requirements[@level='2']" />
+<remove xpath="/progression/perks/perk[@name='perkDemolitionsExpert']/level_requirements[@level='3']" />
+<remove xpath="/progression/perks/perk[@name='perkDemolitionsExpert']/level_requirements[@level='4']" />
+<remove xpath="/progression/perks/perk[@name='perkDemolitionsExpert']/level_requirements[@level='5']" />
+
+<remove xpath="/progression/perks/perk[@name='perkJavelinMaster']/level_requirements[@level='2']" />
+<remove xpath="/progression/perks/perk[@name='perkJavelinMaster']/level_requirements[@level='3']" />
+<remove xpath="/progression/perks/perk[@name='perkJavelinMaster']/level_requirements[@level='4']" />
+<remove xpath="/progression/perks/perk[@name='perkJavelinMaster']/level_requirements[@level='5']" />
+
+<remove xpath="/progression/perks/perk[@name='perkLockPicking']/level_requirements[@level='2']" />
+<remove xpath="/progression/perks/perk[@name='perkLockPicking']/level_requirements[@level='3']" />
+
+<remove xpath="/progression/perks/perk[@name='perkInfiltrator']/level_requirements[@level='2']" />
+<remove xpath="/progression/perks/perk[@name='perkInfiltrator']/level_requirements[@level='3']" />
+
+<remove xpath="/progression/perks/perk[@name='perkAnimalTracker']/level_requirements[@level='2']" />
+<remove xpath="/progression/perks/perk[@name='perkAnimalTracker']/level_requirements[@level='3']" />
+
+<remove xpath="/progression/perks/perk[@name='perkPenetrator']/level_requirements[@level='2']" />
+<remove xpath="/progression/perks/perk[@name='perkPenetrator']/level_requirements[@level='3']" />
+<remove xpath="/progression/perks/perk[@name='perkPenetrator']/level_requirements[@level='4']" />
+
+<remove xpath="/progression/perks/perk[@name='perkLuckyLooter']/level_requirements[@level='2']" />
+<remove xpath="/progression/perks/perk[@name='perkLuckyLooter']/level_requirements[@level='3']" />
+<remove xpath="/progression/perks/perk[@name='perkLuckyLooter']/level_requirements[@level='4']" />
+<remove xpath="/progression/perks/perk[@name='perkLuckyLooter']/level_requirements[@level='5']" />
+
+<remove xpath="/progression/perks/perk[@name='perkTreasureHunter']/level_requirements[@level='2']" />
+<remove xpath="/progression/perks/perk[@name='perkTreasureHunter']/level_requirements[@level='3']" />
+
+<remove xpath="/progression/perks/perk[@name='perkSalvageOperations']/level_requirements[@level='2']" />
+<remove xpath="/progression/perks/perk[@name='perkSalvageOperations']/level_requirements[@level='3']" />
+<remove xpath="/progression/perks/perk[@name='perkSalvageOperations']/level_requirements[@level='4']" />
+<remove xpath="/progression/perks/perk[@name='perkSalvageOperations']/level_requirements[@level='5']" />
+
+
+
+
+<!-- STRENGTH PERKS -->
+<remove xpath="/progression/perks/perk[@name='perkBoomstick']/level_requirements[@level='2']" />
+<remove xpath="/progression/perks/perk[@name='perkBoomstick']/level_requirements[@level='3']" />
+<remove xpath="/progression/perks/perk[@name='perkBoomstick']/level_requirements[@level='4']" />
+<remove xpath="/progression/perks/perk[@name='perkBoomstick']/level_requirements[@level='5']" />
+
+<remove xpath="/progression/perks/perk[@name='perkPummelPete']/level_requirements[@level='2']" />
+<remove xpath="/progression/perks/perk[@name='perkPummelPete']/level_requirements[@level='3']" />
+<remove xpath="/progression/perks/perk[@name='perkPummelPete']/level_requirements[@level='4']" />
+<remove xpath="/progression/perks/perk[@name='perkPummelPete']/level_requirements[@level='5']" />
+
+<remove xpath="/progression/perks/perk[@name='perkSkullCrusher']/level_requirements[@level='2']" />
+<remove xpath="/progression/perks/perk[@name='perkSkullCrusher']/level_requirements[@level='3']" />
+<remove xpath="/progression/perks/perk[@name='perkSkullCrusher']/level_requirements[@level='4']" />
+<remove xpath="/progression/perks/perk[@name='perkSkullCrusher']/level_requirements[@level='5']" />
+
+<remove xpath="/progression/perks/perk[@name='perkSexualTrex']/level_requirements[@level='2']" />
+<remove xpath="/progression/perks/perk[@name='perkSexualTrex']/level_requirements[@level='3']" />
+<remove xpath="/progression/perks/perk[@name='perkSexualTrex']/level_requirements[@level='4']" />
+
+<remove xpath="/progression/perks/perk[@name='perkHeavyArmor']/level_requirements[@level='2']" />
+<remove xpath="/progression/perks/perk[@name='perkHeavyArmor']/level_requirements[@level='3']" />
+<remove xpath="/progression/perks/perk[@name='perkHeavyArmor']/level_requirements[@level='4']" />
+
+<remove xpath="/progression/perks/perk[@name='perkPackMule']/level_requirements[@level='2']" />
+<remove xpath="/progression/perks/perk[@name='perkPackMule']/level_requirements[@level='3']" />
+<remove xpath="/progression/perks/perk[@name='perkPackMule']/level_requirements[@level='4']" />
+<remove xpath="/progression/perks/perk[@name='perkPackMule']/level_requirements[@level='5']" />
+
+<remove xpath="/progression/perks/perk[@name='perkMasterChef']/level_requirements[@level='2']" />
+<remove xpath="/progression/perks/perk[@name='perkMasterChef']/level_requirements[@level='3']" />
+<remove xpath="/progression/perks/perk[@name='perkMasterChef']/level_requirements[@level='4']" />
+<remove xpath="/progression/perks/perk[@name='perkMasterChef']/level_requirements[@level='5']" />
+
+<remove xpath="/progression/perks/perk[@name='perkMiner69r']/level_requirements[@level='2']" />
+<remove xpath="/progression/perks/perk[@name='perkMiner69r']/level_requirements[@level='3']" />
+<remove xpath="/progression/perks/perk[@name='perkMiner69r']/level_requirements[@level='4']" />
+<remove xpath="/progression/perks/perk[@name='perkMiner69r']/level_requirements[@level='5']" />
+
+<remove xpath="/progression/perks/perk[@name='perkMotherLode']/level_requirements[@level='2']" />
+<remove xpath="/progression/perks/perk[@name='perkMotherLode']/level_requirements[@level='3']" />
+<remove xpath="/progression/perks/perk[@name='perkMotherLode']/level_requirements[@level='4']" />
+<remove xpath="/progression/perks/perk[@name='perkMotherLode']/level_requirements[@level='5']" />
+
+<remove xpath="/progression/perks/perk[@name='perkBrawler']/level_requirements[@level='2']" />
+<remove xpath="/progression/perks/perk[@name='perkBrawler']/level_requirements[@level='3']" />
+<remove xpath="/progression/perks/perk[@name='perkBrawler']/level_requirements[@level='4']" />
+<remove xpath="/progression/perks/perk[@name='perkBrawler']/level_requirements[@level='5']" />
+
+<remove xpath="/progression/perks/perk[@name='perkMachineGunner']/level_requirements[@level='2']" />
+<remove xpath="/progression/perks/perk[@name='perkMachineGunner']/level_requirements[@level='3']" />
+<remove xpath="/progression/perks/perk[@name='perkMachineGunner']/level_requirements[@level='4']" />
+<remove xpath="/progression/perks/perk[@name='perkMachineGunner']/level_requirements[@level='5']" />
+
+<remove xpath="/progression/perks/perk[@name='perkTheHuntsman']/level_requirements[@level='2']" />
+<remove xpath="/progression/perks/perk[@name='perkTheHuntsman']/level_requirements[@level='3']" />
+<remove xpath="/progression/perks/perk[@name='perkTheHuntsman']/level_requirements[@level='4']" />
+<remove xpath="/progression/perks/perk[@name='perkTheHuntsman']/level_requirements[@level='5']" />
+
+<remove xpath="/progression/perks/perk[@name='perkWellInsulated']/level_requirements[@level='2']" />
+<remove xpath="/progression/perks/perk[@name='perkWellInsulated']/level_requirements[@level='3']" />
+
+<remove xpath="/progression/perks/perk[@name='perkLivingOffTheLand']/level_requirements[@level='2']" />
+<remove xpath="/progression/perks/perk[@name='perkLivingOffTheLand']/level_requirements[@level='3']" />
+<remove xpath="/progression/perks/perk[@name='perkLivingOffTheLand']/level_requirements[@level='4']" />
+<remove xpath="/progression/perks/perk[@name='perkLivingOffTheLand']/level_requirements[@level='5']" />
+
+<remove xpath="/progression/perks/perk[@name='perkPainTolerance']/level_requirements[@level='2']" />
+<remove xpath="/progression/perks/perk[@name='perkPainTolerance']/level_requirements[@level='3']" />
+<remove xpath="/progression/perks/perk[@name='perkPainTolerance']/level_requirements[@level='4']" />
+<remove xpath="/progression/perks/perk[@name='perkPainTolerance']/level_requirements[@level='5']" />
+
+<remove xpath="/progression/perks/perk[@name='perkHealingFactor']/level_requirements[@level>'1']" />
+
+
+
+
+
