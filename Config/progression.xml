@@ -1,9 +1,6 @@
 <configs>
 <!-- PERCEPTION PERKS -->
-<remove xpath="/progression/perks/perk[@name='perkDeadEye']/level_requirements[@level='2']" />
-<remove xpath="/progression/perks/perk[@name='perkDeadEye']/level_requirements[@level='3']" />
-<remove xpath="/progression/perks/perk[@name='perkDeadEye']/level_requirements[@level='4']" />
-<remove xpath="/progression/perks/perk[@name='perkDeadEye']/level_requirements[@level='5']" />
+<set xpath="/progression/perks/perk[@name='perkDeadEye']/level_requirements[@level>'2']/requirement/@value">1</set>
 
 <remove xpath="/progression/perks/perk[@name='perkDemolitionsExpert']/level_requirements[@level='2']" />
 <remove xpath="/progression/perks/perk[@name='perkDemolitionsExpert']/level_requirements[@level='3']" />
